@@ -1,0 +1,125 @@
+#head {
+    margin-left: 240px;
+    margin-right:280px;
+
+}
+
+#ln {
+    display: flex;
+}
+
+.one {
+    height: 25svh;
+    width: 70px;
+    border-style: double;
+    border-radius: 15px;
+    border-width: 2px;
+    padding-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 120px;
+    margin-top: 90px;
+    margin-bottom: 2px;
+    margin-left: 350px;
+    margin-right: 30px;
+
+}
+
+.two {
+    height: 25svh;
+    width: 70px;
+    border-style: double;
+    border-radius: 15px;
+    border-width: 2px;
+    padding-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 120px;
+    margin-top: 90px;
+    margin-bottom: 2px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.three {
+    height: 25svh;
+    width: 70px;
+    border-style: double;
+    border-radius: 15px;
+    border-width: 2px;
+    padding-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 120px;
+    margin-top: 90px;
+    margin-bottom: 2px;
+    margin-left: 30px;
+    margin-right: 100px;
+    
+
+}
+
+.login{
+    position: absolute;
+    font-size: small;
+
+   
+} 
+.t1{
+   
+    font-size: small;
+    position: absolute;
+    align-items: right;
+    z-index: 1;
+}
+.voilet{
+    background-color: rgb(130, 3, 130);
+    border-top-left-radius:15px ;
+    border-top-right-radius: 15px;
+    height: 80px;
+    width:200px;
+    top: 372px;
+    left:360px;
+    position:absolute;
+    overflow: hidden;
+    z-index: 0;
+}
+.t2{
+   
+    font-size: small;
+    position: absolute;
+    text-align: right;
+    z-index: 1;
+}
+.orange{
+    background-color: rgb(255, 98, 0);
+    border-top-left-radius:15px ;
+    border-top-right-radius: 15px;
+    height: 80px;
+    width:200px;
+    top: 372px;
+    left:623px;
+    position:absolute;
+    overflow: hidden;
+    z-index: 0;
+}
+.t3{
+   
+    font-size: small;
+    position: absolute;
+    text-align: right;
+    z-index: 1;
+}
+.blue{
+    background-color: rgb(0, 160, 205);
+    border-top-left-radius:15px ;
+    border-top-right-radius: 15px;
+    height: 80px;
+    width:200px;
+    top: 372px;
+    left:886px;
+    position:absolute;
+    overflow: hidden;
+    z-index: 0;
+}
